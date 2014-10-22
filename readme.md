@@ -2,7 +2,8 @@
 ===============================
 
 ##reallygoodbot Goals
-Improve bot detection, try not to reply to actual users.
+* Improve bot detection, try not to reply to actual users.
+* Perhaps only comment in hot threads as opposed to smaller/more intimate ones.
 
 ##Description
 
