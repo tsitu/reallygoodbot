@@ -110,7 +110,7 @@ def check_comment(text):
     return False
 
 def add_signature(text):
-    text += "PM for Feedback | [Source Code](https://github.com/tsitu) | *I am a bot.*"
+    text += "PM for Feedback | [Source Code](https://github.com/tsitu/reallygoodbot) | *I am a bot.*"
     return text
 
 #replies to given comment
